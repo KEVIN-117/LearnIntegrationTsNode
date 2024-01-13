@@ -1,0 +1,6 @@
+# THIS IS A PROJECT USING NODE JS, EXPRES JS AND TYPESCRIPT
+
+## Step 1:
+```
+npm init -y
+```
